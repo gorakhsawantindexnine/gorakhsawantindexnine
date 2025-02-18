@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development and learning new things!
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on open AI related projects
-- 📫 How to reach me: gorakh.r.sawant@gmail.com
+- 📫 How to reach me: gorakh.sawant@indexnine.com
 - 😄 Pronouns: Mr.
 
 
